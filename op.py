@@ -1,0 +1,35 @@
+#op.py
+a1=1+2
+a2=1+2.0
+b1=3-1
+b2=3.0-1
+c1=5*5
+c2=5*5.0
+d=5/2
+e=5/2
+f=5%2
+g1=5**2
+g2=5.0**2
+type_a1=type(a1)
+type_a1=type(a1)
+type_a1=type(a1)
+type_a1=type(a1)
+type_a1=type(a1)
+type_a1=type(a1)
+type_a1=type(a1)
+type_a1=type(a1)
+type_a1=type(a1)
+type_a1=type(a1)
+type_a1=type(a1)
+print("a1= \n",a1)
+print("a2= \n",a2)
+print("b1= \n",b1)
+print("b2= \n",b2)
+print("c1= \n",c1)
+print("c2= \n",c2)
+print("d= \n",d)
+print("e= \n",e)
+print("f= \n",f)
+print("g1= \n",g1)
+print("g2= \n",g2)
+
